@@ -1,0 +1,18 @@
+h1{
+display: inline;
+}
+div{
+    background-color: #d0e3e8;
+    padding: 20px;
+    display: block;
+}
+div a{
+    padding: 10px 20px;
+    background-color: #0077ff;
+    color: #fff;
+    text-decoration: none;
+    display: inline;
+}
+.hidden{
+    display: none;
+}
